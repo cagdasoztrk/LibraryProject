@@ -1,0 +1,50 @@
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe.config
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.pdb
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.dll
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.xml
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.Properties.Resources.resources
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CopyComplete
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.exe
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.pdb
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe.config
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.pdb
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.dll
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.xml
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csprojAssemblyReference.cache
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddCategoryPage.resources
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.Properties.Resources.resources
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.GenerateResource.cache
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CopyComplete
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.exe
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.pdb
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe.config
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.pdb
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.dll
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.xml
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csprojAssemblyReference.cache
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.Properties.Resources.resources
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.GenerateResource.cache
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CopyComplete
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.exe
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.pdb
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AdminPage.resources
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.LoginPage.resources
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.Migrations.V1.resources
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.CategoryTransactions.resources
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.ChangePassword.resources
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.UserTransactions.resources
+C:\Users\ITOPYA\Desktop\kurs\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.BookTransactions.resources
